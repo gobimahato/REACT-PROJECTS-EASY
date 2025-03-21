@@ -18,7 +18,7 @@
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/gobimahato/fancy-counter.git
+git clone https://github.com/gobimahato/REACT-PROJECTS-EASY/tree/main/fancy-counter
 cd fancy-counter
 ```
 
